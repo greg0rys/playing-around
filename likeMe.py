@@ -1,6 +1,11 @@
 import emoji
 use_aliases=True
+print('--------------------------------------')
 print(emoji.emojize(' :thought_balloon:'))
+print('A doodle created by: GR')
+print('What can you do for me baby?\ncan you buy me:',sep='')
+print('bundles, brand new shoes, and jewlery? ',sep = '')
+print('--------------------------------------',sep='')
 
 likeMe = input('Do you like me? Enter y/n')
 
